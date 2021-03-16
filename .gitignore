@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/checkpoint-service/build/
+/checkpoint-service/build/classes/java/main/
+/common/build/
+/common/build/classes/java/main/
+/manager/build/
+/manager/build/classes/java/main/
+/manager/build/classes/java/test/
+/manager-query/build/
+/manager-query/build/classes/java/main/
+/report-service/build/
+/report-service/build/classes/java/main/
