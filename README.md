@@ -1,6 +1,4 @@
-# BUILT FROM SCRATCH
+# FITNESS CENTER WITH AXON
 
-This homework has a lot of design mistakes.
-
-**TODO** FIX IT (SOMEDAY)
+**TODO**
 **REMOVE REDUNDANT DOMAIN MODELS, STORE IT IN THE COMMON module**
